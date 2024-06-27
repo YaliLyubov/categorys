@@ -172,13 +172,7 @@
       height: 45px;
       animation: moveUp 5s infinite alternate;
     }
-  /* .circle4 {
-    width: 40px;
-    height: 40px;
-    background-color: rgba(255, 255, 255, 0.6);
-    animation: moveDown 2s infinite alternate;
-  } */
-  
+ 
 @media (max-width:1800px) {
     .leaf-2{
         left: 1085px;
@@ -235,15 +229,6 @@
     bottom: 65px;
    }
 }
-
-/* @keyframes steps{
-    from {
-        transform: translateX(0px);
-    }
-    to {
-        transform: translateX(10px);
-    }
-}  */
 @keyframes moveRight {
     0% {
       transform: translate(0, 0);
